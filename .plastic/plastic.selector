@@ -1,0 +1,3 @@
+rep "Doodle Jump Clone@ANS_Interact@cloud"
+  path "/"
+    smartbranch "/main"
